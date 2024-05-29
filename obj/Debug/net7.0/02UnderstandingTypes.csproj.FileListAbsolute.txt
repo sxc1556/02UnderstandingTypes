@@ -1,0 +1,15 @@
+/Users/siyuan/02UnderstandingTypes/bin/Debug/net7.0/02UnderstandingTypes
+/Users/siyuan/02UnderstandingTypes/bin/Debug/net7.0/02UnderstandingTypes.deps.json
+/Users/siyuan/02UnderstandingTypes/bin/Debug/net7.0/02UnderstandingTypes.runtimeconfig.json
+/Users/siyuan/02UnderstandingTypes/bin/Debug/net7.0/02UnderstandingTypes.dll
+/Users/siyuan/02UnderstandingTypes/bin/Debug/net7.0/02UnderstandingTypes.pdb
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.csproj.AssemblyReference.cache
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.dll
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/refint/02UnderstandingTypes.dll
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.pdb
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/siyuan/02UnderstandingTypes/obj/Debug/net7.0/ref/02UnderstandingTypes.dll
